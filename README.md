@@ -44,7 +44,7 @@ To deploy version `1.0.0` to a namespace called `development` (that must exist) 
 ## Develop with Skaffold
 
 Just run
-
+s
 ```
 skaffold dev --port-forward
 ```
